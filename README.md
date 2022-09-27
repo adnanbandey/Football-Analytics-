@@ -1,1 +1,1 @@
-I will keep adding whatever analytics stuff I keep doing related to football here in different notebooks.
+I will keep adding whatever analytics stuff I keep doing and learning related to football here in different notebooks.
